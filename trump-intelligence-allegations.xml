@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Very Stable Genius</title>
+    <description>Very Stable Genius</description>
+    <itunes:author>Very Stable Genius</itunes:author>
+    <link>https://github.com/verystablegenius/trump-intelligence-allegations</link>
+    <itunes:image href="https://raw.githubusercontent.com/verystablegenius/trump-intelligence-allegations/master/wordcloud01.png"/>
+    <pubDate>Wed, 10 Jan 2018 21:00:00 PST</pubDate>
+    <language>en-us</language>
+    <copyright>
+      2018 Very Stable Genius
+    </copyright>
+
+    <item>
+      <title>Trump Intelligence Allegations</title>
+      <description>Text to speech conversion of the Trump Intelligence Allegations</description>
+      <itunes:author>Very Stable Genius</itunes:author>
+      <pubDate>Wed, 10 Jan 2018 21:00:00 PST</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/verystablegenius/trump-intelligence-allegations/master/trump-intelligence-allegations.mp3" length="13177958" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
